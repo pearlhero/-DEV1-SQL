@@ -8,7 +8,7 @@ Sorgu 2- film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (len
 Çözüm 2- SELECT * FROM film 
 WHERE length > 60 
 AND length < 75;
-<img width="710" alt="Ekran Resmi 2023-03-01 14 40 43" src="https://user-images.githubusercontent.com/116847744/222129426-1bd50152-e6ce-473e-bd1d-d59da1b0f505.png">
+<img width="715" alt="Ekran Resmi 2023-03-01 15 03 50" src="https://user-images.githubusercontent.com/116847744/222134370-d6b5db37-7df5-42e5-80d8-aab018ae681a.png">
 
 Sorgu 3- film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 VE replacement_cost 12.99 VEYA 28.99 olma koşullarıyla sıralayınız.
 Çözüm 3- SELECT * FROM film 
